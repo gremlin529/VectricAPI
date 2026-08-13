@@ -1,7 +1,15 @@
 # VectricAPI
 Lua file describing the Vectric API usable in the VSCode Lua Extension for syntax checking
 
-To use it in this extension: https://marketplace.visualstudio.com/items?itemName=yinfei.luahelper
+To use it in this extension: 
+
+Name: Lua
+Id: sumneko.lua
+Description: Lua Language Server coded by Lua
+Version: 3.19.0
+Publisher: sumneko
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=sumneko.lua
+
 
 put a pointer to the path in the settings library for this file
 
