@@ -5,4 +5,4 @@ To use it in this extension: https://marketplace.visualstudio.com/items?itemName
 
 put a pointer to the path in the settings library for this file
 
-<img width="1451" height="204" alt="image" src="https://github.com/user-attachments/assets/fd797c55-6c07-4cea-9760-082234c2d64f" />
+<img width="1474" height="234" alt="image" src="https://github.com/user-attachments/assets/ff098a68-4282-4fcf-bc51-6b495908a92c" />
