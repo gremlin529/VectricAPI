@@ -3950,7 +3950,7 @@ function DocumentVariableList:DocumentVariableExists(variable_name) end
 ---Returns a DocumentVariable with the passed name if exists otherwise nil.
 ---@param variable_name string Name for variable.
 ---@return DocumentVariable # The document variable, or nil if it does not exist.
-function DocumentVariableList:GetDocumentVariable(variable_name) end
+function DocumentVariableList:GetDocumentVariable(variable_name, default_value) end
 
 ---Sets the DocumentVariable with the specified name to the passed value. It either creates a new
 ---variable if one with the passed name doesn't exist or updates the current one to the new value.
